@@ -2,7 +2,7 @@
 		"Configurations": [
 			{
 			"Version": "1.0.0",
-			"URL": "https://example.com/myimages/Basic-OTA-Example.bin"
+			"URL": "https://github.com/my-dudhwala/OTA_PULL/blob/main/Basic-OTA-Example.ino.partitions.bin"
 			}
 		]
 	}
