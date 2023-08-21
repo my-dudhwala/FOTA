@@ -1,8 +1,0 @@
-	{
-		"Configurations": [
-			{
-			"Version": "1.0.0",
-			"URL": "https://example.com/myimages/Basic-OTA-Example.bin"
-			}
-		]
-	}
